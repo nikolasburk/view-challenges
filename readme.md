@@ -4,7 +4,7 @@ Implement the following diagrams using `UIView` in a playground:
 
 1. centered subview
 
-[centered subview](./challenge1)
+![centered subview](./challenge1.png "centered subview")
 
 2. 3 diagonal subviews
 
